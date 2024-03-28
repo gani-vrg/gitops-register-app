@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: ganivrg/register-app-pipeline:1.0.0-11
+          image: ganivrg/register-app-pipeline:1.0.0-27
           resources:
             limits:
               memory: "256Mi"
